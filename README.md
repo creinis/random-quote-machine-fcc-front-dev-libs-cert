@@ -18,7 +18,7 @@
 - **Font Awesome:** A popular icon library used to add scalable vector icons that can be customized with CSS.
 
 ### Try it!
-https://your-random-quote-machine.vercel.app/
+https://random-quote-machine-fcc-front-dev-libs-cert.vercel.app/
 
 ### Functionality
 
